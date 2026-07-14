@@ -75,3 +75,11 @@ Experienced AI/ML Engineer with 4+ years of overall IT experience, passionate ab
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksharaut1206&layout=compact&theme=tokyonight)
 
 ![](https://streak-stats.demolab.com?user=pratiksharaut1206&theme=tokyonight)
+
+## ✨ More About Me
+
+- ✍️ Passionate about writing poems and creative storytelling.
+- 🤖 Fascinated by Generative AI, Agentic AI, and intelligent automation.
+- 📚 Lifelong learner with a curiosity for emerging technologies.
+- 💡 I enjoy turning ideas into practical AI applications.
+- 🎯 My goal is to build AI products that create meaningful impact.
