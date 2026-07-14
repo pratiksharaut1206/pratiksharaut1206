@@ -68,12 +68,13 @@ Experienced AI/ML Engineer with 4+ years of overall IT experience, passionate ab
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=for-the-badge)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=pratiksharaut1206&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratiksharaut1206&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksharaut1206&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=pratiksharaut1206&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksharaut1206&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pratiksharaut1206&theme=tokyonight"/>
+</p>
