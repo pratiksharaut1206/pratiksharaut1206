@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Pratiksha+Raut+%F0%9F%91%8B;AI%2FML+Engineer;Generative+AI+Developer;Agentic+AI+Enthusiast;Python+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+
 ### Hi there, I'm [Pratiksha](https://www.linkedin.com/in/pratiksha-raut-ranalkar/) 👋
 
 ## I'm an AI/ML Engineer, Generative AI Developer, and Agentic AI Enthusiast!
