@@ -78,8 +78,8 @@ Experienced AI/ML Engineer with 4+ years of overall IT experience, passionate ab
 
 ## ✨ More About Me
 
-- ✍️ Passionate about writing poems and creative storytelling.
 - 🤖 Fascinated by Generative AI, Agentic AI, and intelligent automation.
 - 📚 Lifelong learner with a curiosity for emerging technologies.
 - 💡 I enjoy turning ideas into practical AI applications.
 - 🎯 My goal is to build AI products that create meaningful impact.
+- ✍️ Passionate about writing poems. Poetry is my creative escape—I enjoy expressing emotions and life experiences through words.
