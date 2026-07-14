@@ -14,6 +14,10 @@
 - 🥅 2026 Goals: Build production-ready AI applications and contribute more to open-source projects
 - ⚡ Fun fact: I love writing poetry, exploring new AI technologies, and building intelligent applications
 
+## 💫 About Me:
+
+Experienced AI/ML Engineer with 4+ years of overall IT experience, passionate about building intelligent AI applications using Machine Learning, Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic AI. Skilled in designing scalable AI solutions that solve real-world business problems through Python, FastAPI, LangChain, and LangGraph.
+
 ### Connect with me
 
 <p align="left">
