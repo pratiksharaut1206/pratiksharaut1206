@@ -68,3 +68,12 @@ Experienced AI/ML Engineer with 4+ years of overall IT experience, passionate ab
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=for-the-badge)
 
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=pratiksharaut1206&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=pratiksharaut1206&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksharaut1206&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
