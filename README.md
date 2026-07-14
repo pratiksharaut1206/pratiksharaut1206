@@ -13,3 +13,19 @@
 - 👯 I’m looking to collaborate with other AI/ML developers and open-source contributors
 - 🥅 2026 Goals: Build production-ready AI applications and contribute more to open-source projects
 - ⚡ Fun fact: I love writing poetry, exploring new AI technologies, and building intelligent applications
+
+### Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/pratiksha-raut-ranalkar/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+</a>
+
+<a href="mailto:pratikshatusharranalkar@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" />
+</a>
+
+<a href="https://github.com/pratiksharaut1206">
+<img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+</a>
+</p>
