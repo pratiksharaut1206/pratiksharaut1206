@@ -20,8 +20,16 @@ Experienced AI/ML Engineer with 4+ years of overall IT experience, passionate ab
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-raut-ranalkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratiksharaut1206)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikshatusharranalkar@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/pratiksha-raut-ranalkar/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
+  </a>
 
+  <a href="mailto:pratikshatusharranalkar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
+  </a>
 
+  <a href="https://github.com/pratiksharaut1206" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
+  </a>
+</p>
